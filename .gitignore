@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+.runner
+.credentials
+.credentials_rsaparams
+_diag/
+_work/
+_update/
+pending.env
+*.zip
+*.tar.gz
